@@ -2,6 +2,7 @@
 <div align=center>
   
 <div align=right>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=ChocoJaem&desc=Github%20of%20Jaem&animation=fadeIn&height=250&color=404040&fontColor=ffffff)
 [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
