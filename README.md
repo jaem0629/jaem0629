@@ -11,7 +11,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-F0E150.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F09C3E.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-F09C3E.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF7B54.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00337C.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
  
