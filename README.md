@@ -1,20 +1,6 @@
 <div align=center>
 
- 
  ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=ChocoJaem&desc=Github%20of%20Jaem&animation=fadeIn&height=250&color=404040&fontColor=ffffff)
- 
-<div align=right>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken)
-# 📌 Skills
-### Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-49C964.svg?&style=for-the-badge&logo=Android&logoColor=white)
-[![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
-<a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-</div>
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) 
  # 📌 Skills
