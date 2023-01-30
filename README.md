@@ -2,12 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=ChocoJaem&desc=Github%20of%20Jaem&height=250&color=404040&fontColor=ffffff)
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken"
-       <img align="bottom" src="http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/"/>
-       <img align="bottom" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </img>
- 
- 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken"/>
  
  <!-- <div align=right>
  
