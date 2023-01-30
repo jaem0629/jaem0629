@@ -1,5 +1,3 @@
-# Choco Jaem
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Choco-Jaem&fontSize=100&fontColor=ffffff)
 
 
