@@ -4,12 +4,13 @@
  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken"/>
  
- <div align=right>
+ <!-- <div align=right>
  
  [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  </div>
+-->
  
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) -->
  # 📌 Skills
