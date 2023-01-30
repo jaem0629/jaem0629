@@ -11,5 +11,5 @@
 
  
 # :mailbox_with_mail: Contacts
-<a href="https://velog.io/@chocojaem" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@chocojaem" target="_blank"><img src="https://img.shields.io/badge/Velog-ffffff?style=flat-square&logo=Velog&logoColor=20c997"/></a>
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
