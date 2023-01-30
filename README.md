@@ -1,25 +1,8 @@
 
-<div align=center>
- 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Choco%20Jaem&fontSize=50&fontColor=ffffff)
- 
+<div align=center/right/left>
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) 
  
-<div align=left>
-  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) 
-</div>
- 
-<div align=right>
-   
-# 📌 Skills
-
-### Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-49C964.svg?&style=for-the-badge&logo=Android&logoColor=white)
-
-</div>
  
  # 📌 Skills
 
