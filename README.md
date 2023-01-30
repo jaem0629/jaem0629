@@ -22,7 +22,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-49C964.svg?&style=for-the-badge&logo=Android&logoColor=white)
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-F0E150.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00337C.svg?&style=for-the-badge&logo=Java&logoColor=white)
