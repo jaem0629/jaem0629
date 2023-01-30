@@ -23,6 +23,6 @@
 [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
-![header](https://capsule-render.vercel.app/api?type=wave&height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=wave)
 
 </div>
