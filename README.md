@@ -4,6 +4,10 @@
  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken"/>
  
+  <img align="left" src="http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/"/>
+  <img align="left" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+ 
+ 
  <!-- <div align=right>
  
  [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
