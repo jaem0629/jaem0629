@@ -13,6 +13,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@chocojaem/)]([https://soo-vely-dev.tistory.com](https://velog.io/@chocojaem)/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanillajaem@gmail.com)](mailto:vanillajaem@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@chocojaem/)(https://velog.io/@chocojaem/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanillajaem@gmail.com)(mailto:vanillajaem@gmail.com)
 
