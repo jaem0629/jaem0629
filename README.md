@@ -13,6 +13,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Velog Badge](https://img.shields.io/endpoint?color=Velog&label=Velog&logo=Velog&style=for-the-badge&url=https%3A%2F%2Fvelog.io%2F%40chocojaem)
+[![Velog Badge](https://img.shields.io/endpoint?color=Velog&label=Velog&logo=Velog&style=for-the-badge&url=https%3A%2F%2Fvelog.io%2F%40chocojaem)](https%3A%2F%2Fvelog.io%2F%40chocojaem)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanillajaem@gmail.com)](mailto:vanillajaem@gmail.com)
 
