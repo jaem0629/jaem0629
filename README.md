@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Choco%20Jaem&fontSize=50&fontColor=ffffff)
 
 <div align=center>
+ 
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Choco%20Jaem&fontSize=50&fontColor=ffffff)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) 
 
