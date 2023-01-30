@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=ChocoJaem&desc=Github%20of%20Jaem&animation=fadeIn&height=250&color=404040&fontColor=ffffff)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken).text-left
  # 📌 Skills
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
@@ -18,9 +18,6 @@
 # 📮 Contacts
 [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
- 
-  <div style="width:100px; height:50px; border:3px solid black; float:right">네번째</div>
-  <div style="width:30; height:30px; background-color:#0061ff; float:left; margin:20px;">다섯번째</div>
  
 </div>
   
