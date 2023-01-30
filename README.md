@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=ChocoJaem!&desc=Github%20render&animation=fadeIn)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken) 
  
