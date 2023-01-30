@@ -1,6 +1,6 @@
 # Choco Jaem
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Choco Jaem&height=300&fontSize=100&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Choco-Jaem&height=300&fontSize=100&textBg=false)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojaem&show_icons=true&theme=darken)
