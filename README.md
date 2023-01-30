@@ -1,4 +1,3 @@
-<div align="center/right/left"></div>
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Choco%20Jaem&fontSize=50&fontColor=ffffff)
 
 
