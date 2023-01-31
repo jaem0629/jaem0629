@@ -20,7 +20,7 @@
  - Dankook University Software 학과 입학
  - Android/Kotlin 생태계 독학  
 ### 2020 ~ 2021
- - 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 배포(누적 다운로드 1만+ 달성)
+ - 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 배포 (누적 다운로드 1만+ 달성)
  - Android 1인 앱 개발자로 활동
 ### 2021 ~ 2023
  - Cross Platform Flutter 독학  
