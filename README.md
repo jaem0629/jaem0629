@@ -18,7 +18,7 @@
  
 ### 2012 ~ 2016
  - Visual Basic 독학
- - BackTrack Linux, Kali Linux 등 해킹/보안 관련 독학  
+ - BackTrack Linux, Kali Linux, Metasploit 등 해킹/보안 관련 독학  
 ### 2019 ~ 2020
  - Dankook University 소프트웨어학과 입학
  - Android/Kotlin 생태계 독학  
