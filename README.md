@@ -28,7 +28,7 @@
 ### 2021 ~ 2023
  - Cross Platform Flutter/Dart 독학  
  - Flutter Study 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Goolge Playstore에 배포  
- - DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 후 Google Playstore에 배포 (우수상 수상)
+ - DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Google Playstore에 배포 (우수상 수상)
 ### 2023 ~ ing
  - Java/Spirng 독학
 </div>
