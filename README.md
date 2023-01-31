@@ -18,10 +18,12 @@
 ## 2020 ~ 2021
  ### 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 배포(누적 다운로드 1만+ 달성)
  ### Android 1인 앱 개발자로 활동
-## 2021 ~ 2022
+## 2021 ~ 2023
  ### Cross Platform Flutter 독학  
  ### Flutter Study를 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Goolge Playstore에 배포  
- ### DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 후 Google Playstore에 배포 (우수상 수상)  
+ ### DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 후 Google Playstore에 배포 (우수상 수상)
+## 2023 ~ ing
+ ### Java/Spirng 독학
  
 # 📌 Skills
 ### Frameworks
