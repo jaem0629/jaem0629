@@ -10,7 +10,11 @@
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
+<div align=center>
+
 # 📌 Career
+
+</div>
 
 <div align=left>
  
