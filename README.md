@@ -10,9 +10,10 @@
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
-<div align=center>
- 
 # 📌 Career
+
+<div align=left>
+ 
 ### 2012 ~ 2016
  - Visual Basic 독학
  - BackTrack Linux, Kali Linux 등 해킹/보안 관련 독학  
