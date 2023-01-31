@@ -12,9 +12,7 @@
 
 <div align=center>
 
-# 📌 Career
-
-</div>
+# Career
 
 <div align=left>
  
@@ -35,9 +33,12 @@
  - Java/Spirng 독학
 </div>
 
+</div>
+
+
 <div align=center>
  
-# 📌 Skills
+# Skills
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
