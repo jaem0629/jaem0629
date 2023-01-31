@@ -7,6 +7,12 @@
 [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
+
+# 📌Career
+### Visual Basic, BackTrack Linux, Kali Linux 등 해킹/보안 관련 독학 (2012 ~ 2016)
+### Dankook University Software 학과 입학 및 Android/Kotlin 생태계 독학 (2019 ~ 2020)
+### Android 1인 앱 개발자로 활동, 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 Lunch (2020 ~ 2021)
+### Cross Platform Flutter 독학, Flutter Study를 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Goolge Playstore에 Lunch, DKU 경소톤(경영 + 소프트웨어 해커톤) 반려 식물 앱 "Plantory" 개발 및 우수상 수상 (2022 ~ 2023)
  
 # 📌 Skills
 ### Frameworks
