@@ -10,11 +10,14 @@
 
 # 📌 Career
 ## 2012 ~ 2016
- ### Visual Basic, BackTrack Linux, Kali Linux 등 해킹/보안 관련 독학  
+ ### Visual Basic 독학
+ ### BackTrack Linux, Kali Linux 등 해킹/보안 관련 독학  
 ## 2019 ~ 2020
- ### Dankook University Software 학과 입학 및 Android/Kotlin 생태계 독학  
+ ### Dankook University Software 학과 입학
+ ### Android/Kotlin 생태계 독학  
 ## 2020 ~ 2021
- ### Android 1인 앱 개발자로 활동, 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 배포(누적 다운로드 1만+ 달성)
+ ### 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 배포(누적 다운로드 1만+ 달성)
+ ### Android 1인 앱 개발자로 활동
 ## 2021 ~ 2022
  ### Cross Platform Flutter 독학  
  ### Flutter Study를 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Goolge Playstore에 배포  
