@@ -2,12 +2,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=ChocoJaem&desc=Github%20of%20Jaem&height=300&color=404040&fontColor=ffffff)
 
+</div>
+
 <div align=right>
 
 [![Velog](http://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chocojaem/)](https://velog.io/@chocojaem/)
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
+<div align=left>
+ 
 # 📌 Career
 ### 2012 ~ 2016
  - Visual Basic 독학
@@ -24,6 +28,9 @@
  - DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 후 Google Playstore에 배포 (우수상 수상)
 ### 2023 ~ ing
  - Java/Spirng 독학
+</div>
+
+<div align=center>
  
 # 📌 Skills
 ### Frameworks
