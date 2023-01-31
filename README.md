@@ -20,7 +20,7 @@
  - Visual Basic 독학
  - BackTrack Linux, Kali Linux 등 해킹/보안 관련 독학  
 ### 2019 ~ 2020
- - Dankook University Software 학과 입학
+ - Dankook University 소프트웨어학과 입학
  - Android/Kotlin 생태계 독학  
 ### 2020 ~ 2021
  - 일정 관리 앱 "계.다.있" 개발 및 Goolge Playstore에 배포 (누적 다운로드 1만+ 달성)
