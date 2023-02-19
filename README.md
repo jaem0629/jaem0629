@@ -48,6 +48,7 @@
 ![Dart](https://img.shields.io/badge/Dart-00337C.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F09C3E.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF7B54.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  
 </div>
   
