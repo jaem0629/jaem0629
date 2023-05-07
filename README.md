@@ -31,10 +31,8 @@
  - (Flutter) DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Google Playstore에 배포 (우수상 수상)
 ### 2023 ~ ing
  - Java/Spirng 독학
+ 
 </div>
-
-</div>
-
 
 <div align=center>
  
