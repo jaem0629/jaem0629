@@ -31,7 +31,7 @@
  - (Flutter) DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Google Playstore에 배포 (우수상 수상)
 ### 2023 ~ ing
  - Java/Spirng 독학
- - (Flutter) 단국대학교 총학생회 소속으로 활동하며 총학생회 이벤트 및 공지사항 안내, 시간표 관리, 버스정보 제공 등의 기능을 갖춘 앱 Danvery 개발 Google Playstore 및 Apple AppStore에 배포 
+ - (Flutter) 단국대학교 총학생회 활동 및 총학생회 이벤트 및 공지사항 안내, 시간표 관리, 버스정보 제공 등의 기능을 갖춘 앱 Danvery 개발 Google Playstore 및 Apple AppStore에 배포 
  
 </div>
 
