@@ -43,10 +43,10 @@
  
 # 🛠 Skills 🛠
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-49C964.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,6 +56,8 @@
 ![Java](https://img.shields.io/badge/Java-F09C3E.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
- 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![StyleX](https://img.shields.io/badge/StyleX-000000?style=for-the-badge&logo=Meta&logoColor=white)
+
 </div>
-  
