@@ -11,12 +11,12 @@
 
 <div align=center>
 
-# 🏆 Career 🏆
+# 🏆 My Story 🏆
 
 <div align=left>
  
 ### 2019 ~ 2020
- - Dankook University 소프트웨어학과 입학
+ - 단국대학교 소프트웨어학과 입학
 ### 2020 ~ 2021
  - [Android/Kotlin] 일정 관리 앱 "계.다.있" 개발 및 Google Playstore에 배포 (누적 다운로드 1만+ 달성)
 ### 2021 ~ 2022
