@@ -9,11 +9,6 @@
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
-<div align=center>
-
-# My Story 📚
-
-<div align=left>
  
 ### 2012 ~ 2019
  - Visual Basic, C, C#, Unity Engine 공부
