@@ -41,7 +41,7 @@
 
 <div align=center>
  
-# 🛠 Skills 🛠
+# 🛠 Major Skills 🛠
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
@@ -51,7 +51,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-00337C.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF7B54.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F0E150.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 </div>
