@@ -50,7 +50,8 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-00337C.svg?&style=for-the-badge&logo=Dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F0E150.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF7B54.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F0E150.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 </div>
