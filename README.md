@@ -15,21 +15,16 @@
 
 <div align=left>
  
-### 2012 ~ 2016
- - Visual Basic 독학
- - BackTrack Linux, Kali Linux, Metasploit 등 해킹/보안 관련 독학  
 ### 2019 ~ 2020
  - Dankook University 소프트웨어학과 입학
- - Android/Kotlin 독학  
 ### 2020 ~ 2021
  - [Android/Kotlin] 일정 관리 앱 "계.다.있" 개발 및 Google Playstore에 배포 (누적 다운로드 1만+ 달성)
- - Android 1인 앱 개발자로 활동
-### 2021 ~ 2023
+### 2021 ~ 2022
  - Cross Platform Flutter/Dart 독학  
- - Flutter Study 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Google Playstore에 배포  
+ - Flutter Study 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Google Playstore에 배포
+### 2022 ~ 2023
  - [Flutter] DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Google Playstore에 배포 (우수상 수상)
-### 2023 ~ ing
- - Java/Spirng 독학
+### 2023 ~ 2024
  - [Flutter] 단국대학교 총학생회 이벤트 및 공지사항 안내, 시간표 관리, 버스정보 제공 등의 기능을 갖춘 앱 Danvery 개발 Google Playstore 및 Apple AppStore에 배포 
  
 </div>
