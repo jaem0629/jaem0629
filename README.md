@@ -33,7 +33,7 @@
  - [Flutter] 단국대학교 총학생회 이벤트 및 공지사항 안내, 시간표 관리, 버스정보 제공 등의 기능을 갖춘 앱 Danvery 개발 Google Playstore 및 Apple AppStore에 배포
 ### 2024 ~ 2025
  - AI 및 ML Ops 개발 기업 (주)퍼블릭에이아이 인턴 수행(리엑트, 리엑트 네이티브 업무)
-  - RAG 운용 솔루션 프로젝트 RAG Stack Builder 프론트 개발(React, Typescript)
+   - RAG 운용 솔루션 프로젝트 RAG Stack Builder 프론트 개발(React, Typescript)
 ### 2025 ~ ing
  - (주)퍼블릭에이아이 계약직 근무 중
   - 김제 스마트팜 프로젝트 프론트 개발(React, Typescript)
