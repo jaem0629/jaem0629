@@ -17,15 +17,15 @@
  - 단국대학교 소프트웨어학과 입학
  - Android/Kotlin 공부
 ### 2020 ~ 2021
- - [Android/Kotlin] 일정 관리 앱 "계.다.있" 개발 및 Google Playstore에 배포 (누적 다운로드 1만+ 달성)
+ - [Android/Kotlin] 일정 관리 앱 "계.다.있" 개발 및 Playstore에 배포 (누적 다운로드 1만+ 달성)
 ### 2021 ~ 2022
  - Flutter/Dart 공부
  - Flutter Study 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Google Playstore에 배포
 ### 2022 ~ 2023
- - [Flutter] DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Google Playstore에 배포 (우수상 수상)
+ - [Flutter] DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Playstore에 배포 (우수상 수상)
 ### 2023 ~ 2024
  - Java/Spirng 공부
- - [Flutter] 단국대학교 총학생회 공지사항, 시간표, 버스정보 등의 기능을 갖춘 앱 Danvery 개발 및 Google Playstore 및 Apple AppStore에 배포
+ - [Flutter] 단국대학교 총학생회 공지사항, 시간표, 버스정보 등의 기능을 갖춘 앱 Danvery 개발 및 Playstore, AppStore에 배포
 ### 2024 ~ 2025
  - AI 및 ML Ops 개발 기업 (주)퍼블릭에이아이 인턴 수행(리엑트, 리엑트 네이티브 업무)
    - RAG 운용 및 관리 제품 RAG Stack Builder 웹 개발(React, Typescript)
