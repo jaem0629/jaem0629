@@ -14,17 +14,19 @@
 # 🏆 My Story 🏆
 
 <div align=left>
- 
+
 ### 2019 ~ 2020
  - 단국대학교 소프트웨어학과 입학
+ - Android/Kotlin 공부
 ### 2020 ~ 2021
  - [Android/Kotlin] 일정 관리 앱 "계.다.있" 개발 및 Google Playstore에 배포 (누적 다운로드 1만+ 달성)
 ### 2021 ~ 2022
- - Cross Platform Flutter/Dart 독학  
+ - Flutter/Dart 공부
  - Flutter Study 운영을 통해 Pomodoro 앱 "Nevertheless" 개발 및 Google Playstore에 배포
 ### 2022 ~ 2023
  - [Flutter] DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Google Playstore에 배포 (우수상 수상)
 ### 2023 ~ 2024
+ - Java/Spirng 공부
  - [Flutter] 단국대학교 총학생회 이벤트 및 공지사항 안내, 시간표 관리, 버스정보 제공 등의 기능을 갖춘 앱 Danvery 개발 Google Playstore 및 Apple AppStore에 배포 
  
 </div>
