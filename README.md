@@ -11,7 +11,7 @@
 
 <div align=center>
 
-# 🏆 My Story 🏆
+# My Story 📚
 
 <div align=left>
  
