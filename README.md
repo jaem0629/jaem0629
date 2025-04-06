@@ -27,7 +27,7 @@
  - Java/Spirng 공부
  - [Flutter] 단국대학교 총학생회 공지사항, 시간표, 버스정보 등의 기능을 갖춘 앱 Danvery 개발 및 Playstore, AppStore에 배포
 ### 2024 ~ 2025
- - AI 및 ML Ops 개발 기업 (주)퍼블릭에이아이 인턴 수행(리엑트, 리엑트 네이티브 업무)
+ - 인공지능 개발 기업 (주)퍼블릭에이아이 인턴 수행(리엑트, 리엑트 네이티브 업무)
    - RAG 운용 및 관리 제품 RAG Stack Builder 웹 개발(React, Typescript)
    - [현대자동차] 주행 로깅 및 분석 앱 유지보수(React Native, Typescript)
    - [군인공제회] 나라사랑포털 앱인앱 장병 진료비 직접 청구 프로젝트 웹뷰 전환 및 웹 개발(Android, iOS, React, TypeScript)
