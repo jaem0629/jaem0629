@@ -25,7 +25,7 @@
  - [Flutter] DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 개발 및 Playstore에 배포 (우수상 수상)
 ### 2023 ~ 2024
  - Java/Spirng 공부
- - [Flutter] 단국대학교 총학생회 공지사항, 시간표, 버스정보 등의 기능을 갖춘 앱 Danvery 개발 및 Playstore, AppStore에 배포
+ - [Flutter] 단국대학교 총학생회 공지사항, 시간표, 버스정보 등의 기능을 갖춘 앱 Danvery 개발 및 Playstore, AppStore에 배포 (DAU 1000+ 달성 경험)
 ### 2024 ~ 2025
  - [Flutter] 유기동물 임시 보호 및 봉사활동 플랫폼 Anipod 개발 및 경진대회 참여(단국대학교 창업유망팀 300+ 경진대회 성장트랙 최종 선정)
  - 인공지능 개발 기업 (주)퍼블릭에이아이 인턴 수행 (프론트엔드 개발)
