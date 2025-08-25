@@ -1,9 +1,3 @@
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=MintChoco%20Jaem&desc=논리와%20아름다움이%20만나는%20지점을%20찾는%20개발%20철학자&height=300&color=b8e9e1&fontColor=303030)
-
-</div>
-
 <div align=right>
 
 <a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -32,6 +26,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack%20Router-FF6B35?style=for-the-badge&logo=router&logoColor=white)
 
 ## 🏆 Recent Projects
 
