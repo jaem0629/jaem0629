@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## 🚀 Currently
 
 **Frontend Developer** at **퍼블릭에이아이** (2024.08 ~ Present)
@@ -68,5 +66,3 @@
 - **Performance**: 최적화를 통한 사용자 경험 개선  
 - **Architecture**: 확장 가능하고 유지보수하기 쉬운 구조 설계
 - **Developer Experience**: 팀 전체의 생산성을 높이는 도구와 프로세스
-
-> 논리와 아름다움이 만나는 지점을 찾아, 더 나은 코드를 탐구하는 개발 철학자입니다.
