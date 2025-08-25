@@ -35,8 +35,8 @@
 ## 🏆 Recent Projects
 
 ### 🤖 **RagStack** - RAG 챗봇 플랫폼
-- GraphQL + Relay 조합으로 서비스를 구현, Mutation을 미들웨어에 추가하여 네트워크 요청 50% 감소
-- TanStack Router의 Loader를 활용한 프리패칭으로 첫 화면 로딩 시간 3초 → 0.5초 단축
+- GraphQL + Relay 조합으로 서비스를 구현, Mutation을 미들웨어에 추가하여 네트워크 요청 30% 감소
+- TanStack Router의 Loader를 활용한 프리패칭으로 첫 화면 로딩 시간 2초 → 0.5초 단축
 
 ### 🔬 **RAMP** - 현대차 ML 연구 플랫폼  
 - Tailwind + shadcn/ui 기반 ML 연구자용 UI 구성, TanStack Router로 파일 기반 라우팅 구현
