@@ -26,7 +26,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TanStack Router](https://img.shields.io/badge/TanStack%20Router-FF6B35?style=for-the-badge&logo=router&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF6B35?style=for-the-badge&logo=router&logoColor=white)
 
 ## 🏆 Recent Projects
 
