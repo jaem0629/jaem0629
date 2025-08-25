@@ -1,9 +1,11 @@
-<div align=right>
+<div align=center>
 
-<a href="mailto:vanillajaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/mintchocojaem" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+**"더 나은 코드를 탐구하는 개발 철학자"**  
+*논리와 아름다움이 만나는 지점에서 개발합니다.*
 
 </div>
+
+---
 
 ## 🚀 Currently
 
@@ -26,7 +28,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF6B35?style=for-the-badge&logo=router&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ## 🏆 Recent Projects
 
@@ -57,12 +59,3 @@ AI 이미지 분석 기반 앱으로 R&D 프로젝트 1등 선정
 - **Performance**: 최적화를 통한 사용자 경험 개선  
 - **Architecture**: 확장 가능하고 유지보수하기 쉬운 구조 설계
 - **Developer Experience**: 팀 전체의 생산성을 높이는 도구와 프로세스
-
----
-
-<div align=center>
-
-**"더 나은 코드를 탐구하는 개발 철학자"**  
-*논리와 아름다움이 만나는 지점에서 개발합니다.*
-
-</div>
