@@ -37,19 +37,24 @@
 ## 🏆 Recent Projects
 
 ### 🤖 **RagStack** - RAG 챗봇 플랫폼
-GraphQL + Relay 조합과 TanStack Router를 활용한 고성능 챗봇 플랫폼 개발
+- GraphQL + Relay 조합으로 서비스를 구현, Mutation을 미들웨어에 추가하여 네트워크 요청 50% 감소
+- TanStack Router의 Loader를 활용한 프리패칭으로 첫 화면 로딩 시간 3초 → 0.5초 단축
 
 ### 🔬 **RAMP** - 현대차 ML 연구 플랫폼  
-GraphQL을 회사에 처음 도입하며 ML 연구자를 위한 직관적인 UI 구현
+- Tailwind + shadcn/ui 기반 ML 연구자용 UI 구성, TanStack Router로 파일 기반 라우팅 구현
+- Postgraphile 활용 GraphQL 서버 구성, REST와 GraphQL 점진적 도입으로 사내 표준화 달성
 
 ### 🌱 **스마트팜 플랫폼** - 전북 김제 혁신밸리
-대규모 API 관리와 데이터 시각화를 위한 대시보드 개발
+- 100개 이상 API 호출 관리를 위한 React Query 도입으로 캐싱과 상태 관리 자동화
+- OpenAPI Generator로 API 타입 자동 생성 설정, 타입 안정성 확보 및 개발 속도 향상
 
 ### 🐟 **김 생체량 예측 앱** - 풀무원 R&D
-AI 이미지 분석 기반 앱으로 R&D 프로젝트 1등 선정
+- React + React Native 웹뷰 하이브리드 구조로 모바일 최적화 설계
+- Base64 → multipart/form-data 전환으로 이미지 전송 트래픽 최적화 및 응답 속도 개선
 
 ### 🏥 **DMMBS** - 국방 진료비 직접청구 시스템
-레거시 앱을 React 기반으로 완전 재개발하여 안정적인 서비스로 전환
+- Electrode Native 레거시를 React + Vite 기반으로 완전 재개발
+- Android/iOS 웹뷰 통합으로 배포 심사 우회, 배포 시간 대폭 단축 (일 2천+ 건 처리)
 
 ## 📱 Side Projects
 
@@ -63,3 +68,5 @@ AI 이미지 분석 기반 앱으로 R&D 프로젝트 1등 선정
 - **Performance**: 최적화를 통한 사용자 경험 개선  
 - **Architecture**: 확장 가능하고 유지보수하기 쉬운 구조 설계
 - **Developer Experience**: 팀 전체의 생산성을 높이는 도구와 프로세스
+
+> 논리와 아름다움이 만나는 지점을 찾아, 더 나은 코드를 탐구하는 개발 철학자입니다.
