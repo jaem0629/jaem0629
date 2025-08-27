@@ -1,5 +1,9 @@
 # Jaem
 
+> "하나님, 제가 바꿀 수 없는 것을 받아들이는 평온함과, 바꿀 수 있는 것을 바꿀 용기, 그리고 그 차이를 구별하는 지혜를 주십시오."
+> 
+> — 라인홀드 니버
+
 새로운 기술과 더 나은 코드를 탐구하는 프론트엔드 개발자 이재민입니다.
 
 "Simple is best"라는 철학을 좋아합니다. 중복을 줄이고 구조는 단순하게 유지하며, 사용자에게 더 나은 경험을 제공하는 것에 집중합니다. 논리와 아름다움이 만나는 지점에서 개발하고자 노력합니다.
@@ -33,8 +37,4 @@ React, TypeScript, GraphQL을 주력으로 사용하며, 모던 프론트엔드 
 
 ## 기술 스택
 
-React, TypeScript, GraphQL, Relay, TailwindCSS, Next.js, React Native, React Query, TanStack Router, Vite
-
-## 연락처
-
-- [이메일](mailto:vanillajaem@gmail.com)
+React, TypeScript, GraphQL, Relay, TailwindCSS, Next.js
