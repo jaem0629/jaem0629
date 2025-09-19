@@ -29,6 +29,6 @@ React, TypeScript, GraphQL을 주력으로 사용하며, 모던 프론트엔드 
 - **Anipod** - 유기동물 보호 플랫폼 (단국대학교 창업유망팀 선정)
 - **"계.다.있"** - 일정관리 앱 (다운로드 1만+)
 
-## 기술 스택
+## Tech Stack
 
 React, TypeScript, GraphQL, Relay, TailwindCSS, Next.js
