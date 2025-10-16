@@ -31,4 +31,4 @@ React, TypeScript를 주력으로 사용합니다. GraphQL과 Relay를 통한 �
 
 ## Tech Stack
 
-React • TypeScript • GraphQL • Relay • StyleX • TailwindCSS • TanstackQuery • TanstackRouter • ReactHookForm • Orval • OpenApi Generator
+React • TypeScript • GraphQL • Relay • StyleX • Tailwind CSS • Tanstack Query • Tanstack Router • React Hook Form • Orval • OpenAPI Generator
