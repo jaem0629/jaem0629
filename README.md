@@ -1,4 +1,4 @@
-신선하며 깨끗한 코드 작성에 관심이 많은 소프트웨어 엔지니어 이재민입니다.
+신선하고 깨끗한 코드 작성에 관심이 많은 소프트웨어 엔지니어 이재민입니다.
 
 **"완벽은 덧붙일 것이 없을 때가 아니라 뺄 것이 없을 때 성취된다"** 는 생텍쥐페리의 말을 좋아합니다. 중복을 제거하고 구조를 단순하게 유지하며, 올바르게 동작하면서도 읽기 쉬운 코드를 작성하고자 노력합니다.
 
@@ -6,7 +6,7 @@
 
 확장과 유지보수하기 쉬운 아키텍처 구축을 선호하며, 항상 더 나은 방법이 있다고 믿습니다.
 
-React, TypeScript를 주력으로 사용합니다. GraphQL과 Relay를 통한 선언적 데이터 페칭에 흥미가 있으며, 모던 프론트엔드 도구들을 활용해 뛰어난 서비스를 만드는 것이 목표입니다.
+React, TypeScript를 주력으로 사용합니다. GraphQL을 통한 선언적 데이터 페칭에 흥미가 있으며, 모던 프론트엔드 도구들을 활용해 뛰어난 서비스를 만드는 것이 목표입니다.
 
 여가 시간엔 새로운 기술을 학습하거나 게임을 즐기며, 때로는 재즈를 들으면서 영감을 얻기도 합니다.
 
@@ -29,6 +29,6 @@ React, TypeScript를 주력으로 사용합니다. GraphQL과 Relay를 통한 �
 - **Anipod** — 유기동물 보호 플랫폼, 단국대학교 창업유망팀 선정
 - **"계.다.있"** — 일정관리 앱, 누적 다운로드 10,000+
 
-## Tech Stack
+## Major Tech Stack
 
-React • TypeScript • GraphQL • Relay • StyleX • Tailwind CSS • Tanstack Query • Tanstack Router • React Hook Form • Orval • OpenAPI Generator
+React • TypeScript • GraphQL • Relay • StyleX • Tailwind CSS • Tanstack Query • Tanstack Router • React Router • Orval • OpenAPI Generator
