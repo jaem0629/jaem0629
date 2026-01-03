@@ -29,7 +29,7 @@ React, TypeScript를 주력으로 사용하며, GraphQL을 통한 선언적 데�
 
 - **Danvery** — 단국대 학생 커뮤니티, 총학생회 공식 앱 (Flutter, Dart)
 - **Anipod** — 유기동물 보호 플랫폼, 창업유망팀 선정 (Flutter, Dart)
-- **"계.다.있"** — 드래그 일정관리 앱, 다운로드 10,000+ (Android, Kotlin)
+- **계.다.있** — 드래그 일정관리 앱, 다운로드 10,000+ (Android, Kotlin)
 
 ## Tech Stack
 
