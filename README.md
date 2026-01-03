@@ -13,21 +13,26 @@ React, TypeScript를 주력으로 사용하며, GraphQL을 통한 선언적 데�
 
 ## Main Projects
 
+**2026**
+- **NTS 전자신고 상담** — 국세청 전자신고 상담 챗봇, Tanstack 기반 서비스 페이지 및 Relay 기반 관리 페이지 구현 (React, TypeScript)
+
 **2025**
-- **RagStack** — RAG 챗봇 플랫폼, Postgraphile GraphQL 서버 구현 및 Relay 캐싱 극대화
-- **RAMP** — 현대차 ML 연구 플랫폼, 사내 GraphQL + Relay 표준 수립
-- **스마트팜 플랫폼** — 김제 혁신밸리, Orval + Tanstack Query로 100+ REST API 타입 안전성 확보
+- **RAG Stack** — 사내 RAG 챗봇 플랫폼, Postgraphile + Relay로 GraphQL 아키텍처 구축 (React, TypeScript)
+- **RAMP** — 현대차 ML 연구 플랫폼, 사내 GraphQL + Relay 표준 수립 (React, TypeScript)
+- **김제 혁신밸리 스마트팜** — 스마트팜 관리 플랫폼, Orval + Tanstack Query로 100+ API 타입 자동화 (React, TypeScript)
 
 **2024**
-- **김 생체량 예측 앱** — 풀무원 R&D, 웹뷰 기반 모바일 최적화, R&D 프로젝트 1등 선정
-- **DMMBS** — 국방 진료비 직접청구 시스템, 레거시 웹뷰 전면 재개발
+- **김 생체량 예측 앱** — 풀무원 R&D, 웹뷰 기반 모바일 최적화로 R&D 프로젝트 1등 선정 (React, TypeScript)
+- **DMMBS** — 국방 진료비 직접청구 시스템, 레거시 웹뷰 전면 재개발 (React, TypeScript)
 
 ## Side Projects
 
-- **Danvery** — 단국대 학생 플랫폼, 총학생회 공식 앱
-- **Anipod** — 유기동물 보호 플랫폼, 창업유망팀 선정
-- **"계.다.있"** — 일정관리 앱, 누적 다운로드 10,000+
+- **Danvery** — 단국대 학생 커뮤니티, 총학생회 공식 앱 (Flutter, Dart)
+- **Anipod** — 유기동물 보호 플랫폼, 창업유망팀 선정 (Flutter, Dart)
+- **"계.다.있"** — 드래그 일정관리 앱, 다운로드 10,000+ (Android, Kotlin)
 
 ## Tech Stack
 
-React • TypeScript • GraphQL • Relay • StyleX • Tailwind CSS • Tanstack Query • Tanstack Router
+**Frontend** — React • TypeScript • Relay • Tanstack • StyleX • Tailwind CSS
+
+**Mobile** — Flutter • Android
