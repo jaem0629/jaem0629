@@ -2,7 +2,7 @@ I'm Jaemin Lee, a software engineer passionate about **Fresh & Clean** code — 
 
 I believe "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." This belief drives my pursuit of minimal duplication and sensible architecture.
 
-Beyond just solving problems, my focus is on boosting team-wide productivity — improving both developer and user experience through type automation, caching, and performance optimization.
+Beyond just solving problems, my focus is on boosting team-wide productivity by improving both developer and user experience through type automation, caching, and performance optimization.
 
 My primary stack is React and TypeScript, with an interest in declarative data fetching via GraphQL.
 
