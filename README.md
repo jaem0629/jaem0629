@@ -1,14 +1,14 @@
-Software engineer pursuing **Fresh & Clean** code — simple, readable, and well-structured.
+I'm Jaemin Lee, a software engineer passionate about **Fresh & Clean** code — simple, readable, and well-structured.
 
-I believe "perfection is achieved when there's nothing left to remove." I aim for minimal duplication and sensible architecture.
+I believe "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." This belief drives my pursuit of minimal duplication and sensible architecture.
 
-Beyond just solving problems, I focus on boosting team-wide productivity. I find fulfillment in improving both developer and user experience through type automation, caching, and performance optimization.
+Beyond just solving problems, my focus is on boosting team-wide productivity — improving both developer and user experience through type automation, caching, and performance optimization.
 
-My primary stack is React and TypeScript, with a interest in declarative data fetching via GraphQL.
+My primary stack is React and TypeScript, with an interest in declarative data fetching via GraphQL.
 
 In my free time, I explore new technologies, play games, or find inspiration listening to jazz.
 
-Currently working as a Frontend Developer at PublicAI in Seoul, 
+Currently working as a Frontend Developer at PublicAI in Seoul.
 
 ## Main Projects
 
@@ -32,6 +32,6 @@ Currently working as a Frontend Developer at PublicAI in Seoul,
 
 ## Tech Stack
 
-**Frontend** — React • TypeScript • Relay • Tanstack • StyleX • Tailwind CSS
+**Frontend** — React, TypeScript, Relay, Tanstack, StyleX, Tailwind CSS
 
-**Mobile** — Flutter • Android
+**Mobile** — Flutter, Android
