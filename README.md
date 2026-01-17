@@ -30,8 +30,8 @@ Currently working as a Frontend Developer at PublicAI in Seoul.
 - **Anipod** — Abandoned animal protection platform, selected as promising startup team (Flutter, Dart)
 - **Got a plan** — Drag-based scheduling app, 10,000+ downloads (Android, Kotlin)
 
-## Tech Stack
+## Major Tech Stack
 
-**Frontend** — React, TypeScript, Relay, Tanstack, StyleX, Tailwind CSS
+**Frontend** — React
 
 **Mobile** — Flutter, Android
