@@ -37,9 +37,3 @@ Currently working as a Frontend Developer at PublicAI in Seoul.
 
 **2019**
 - Got a plan — Drag-based scheduling app, 10,000+ downloads (Android, Kotlin)
-
-## Major Tech Stack
-
-**Frontend** — React
-
-**Mobile** — Flutter, Android
