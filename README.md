@@ -1,4 +1,4 @@
-I'm Jaemin Lee, a software engineer. I care about writing code that's fresh and clean.
+I'm Jaemin Lee, a software engineer who values writing fresh and clean code.
 
 I like the saying "Perfection is achieved when there's nothing left to remove." That's why I aim for minimal duplication and sensible structure.
 
@@ -6,7 +6,7 @@ Beyond just solving problems, I think about ways to boost productivity. I enjoy 
 
 I work with React and TypeScript, and I'm drawn to declarative data fetching like GraphQL.
 
-In my free time, I learn new technologies, play games, or find inspiration listening to jazz.
+In my free time, I learn new technologies, play games, and find inspiration listening to jazz.
 
 Currently working as a Frontend Developer at PublicAI in Seoul.
 
