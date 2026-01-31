@@ -20,9 +20,9 @@ Joined as first frontend engineer with only App experience. Learned React and Ty
 
 **GraphQL with DB-first Approach** — Proposed PostGraphile for admin-heavy products. Backend engineers no longer write filters, pagination, or GET endpoints. Admin development 60% faster. Adopted in RAG Stack, RAMP, and NTS projects.
 
-**BFF Architecture Exploration** — Built BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation for sustainable ownership as sole frontend engineer.
+**BFF Architecture Exploration** — Built BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation due to maintenance overhead.
 
-**Scaling Knowledge** — Contributing to open source (Shadcn, Orval) to learn large-scale patterns and team collaboration as sole frontend engineer. Applying insights to internal architecture.
+**Scaling Knowledge** — Contributing to open source to learn large-scale patterns and team collaboration. Applying insights to internal architecture.
 
 ## Main Projects
 
