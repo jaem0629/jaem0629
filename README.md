@@ -12,7 +12,7 @@ Currently working as a Frontend Developer at PublicAI in Seoul.
 
 ## Impact at PublicAI
 
-Joined as first frontend engineer with only Flutter experience. Learned React and TypeScript while shipping production features. In 1.5 years, established frontend standards across 10+ projects.
+Joined as first frontend engineer with only App experience. Learned React and TypeScript while shipping production features. In 1.5 years, established frontend standards across 10+ projects.
 
 **AI Coding Agents** — Adopted Cursor and Copilot when the company only used ChatGPT. Proved impact through development speed improvements. Now company-wide standard, doubling team productivity.
 
@@ -22,7 +22,7 @@ Joined as first frontend engineer with only Flutter experience. Learned React an
 
 **BFF Architecture Exploration** — Built BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation due to maintenance overhead.
 
-**Scaling Knowledge** — Contributing to open source (Shadcn, Orval) to learn large-scale patterns and team collaboration as sole frontend engineer. Applying insights to internal architecture.
+**Scaling Knowledge** — Contributing to open source to learn large-scale patterns and team collaboration. Applying insights to internal architecture.
 
 ## Main Projects
 
