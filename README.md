@@ -22,7 +22,7 @@ Joined as the first frontend engineer with only App experience. Learned React an
 
 **BFF Architecture Exploration** — Built a BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation due to maintenance overhead.
 
-**Scaling Knowledge** — Contributing to open source to learn large-scale patterns and team collaboration as a solo frontend engineer, then applying those insights to internal architecture.
+**Scaling Knowledge** — Contributing to open source to learn large-scale patterns and team collaboration, then applying those insights to internal architecture.
 
 ## Main Projects
 
