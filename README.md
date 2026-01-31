@@ -12,7 +12,7 @@ Currently working as a Frontend Developer at PublicAI in Seoul.
 
 ## Impact at PublicAI
 
-Joined as first frontend engineer with only Flutter experience. Learned React and TypeScript while shipping production features. In 1.5 years, established frontend standards across 10+ projects.
+Joined as first frontend engineer with only App experience. Learned React and TypeScript while shipping production features. In 1.5 years, established frontend standards across 10+ projects.
 
 **AI Coding Agents** — Adopted Cursor and Copilot when company only used ChatGPT. Proved impact through delivery speed improvements. Now company standard, doubling team productivity.
 
