@@ -10,6 +10,20 @@ In my free time, I learn new technologies, play games, and find inspiration list
 
 Currently working as a Frontend Developer at PublicAI in Seoul.
 
+## Impact at PublicAI
+
+Joined as first frontend engineer with only Flutter experience. Learned React and TypeScript while shipping production features. In 1.5 years, established frontend standards across 10+ projects.
+
+**AI Coding Agents** — Adopted Cursor and Copilot when company only used ChatGPT. Proved impact through delivery speed improvements. Now company standard, doubling team productivity.
+
+**OAS-based Type Generation** — Adopted Orval for REST APIs. Automated 100+ endpoint types, eliminating manual maintenance and field-name bugs.
+
+**GraphQL with DB-first Approach** — Proposed PostGraphile for admin-heavy products. Backend engineers no longer write filters, pagination, or GET endpoints. Admin development 60% faster. Adopted in RAG Stack, RAMP, and NTS projects.
+
+**BFF Architecture Exploration** — Built BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation for sustainable ownership as sole frontend engineer.
+
+**Scaling Knowledge** — Contributing to open source (Shadcn, Orval) to learn large-scale patterns and team collaboration as sole frontend engineer. Applying insights to internal architecture.
+
 ## Main Projects
 
 **2026**
@@ -18,7 +32,7 @@ Currently working as a Frontend Developer at PublicAI in Seoul.
 **2025**
 - RAG Stack — Internal RAG chatbot platform, architected GraphQL with Postgraphile + Relay (React, TypeScript)
 - RAMP — Hyundai ML research platform, established internal GraphQL + Relay standards (React, TypeScript)
-- Gimje Smart Farm — Smart farm management platform, automated 100+ API types with Orval + Tanstack Query (React, TypeScript)
+- Gimje Smart Farm — Smart farm management platform, automated API types with Orval + Tanstack Query (React, TypeScript)
 
 **2024**
 - Seaweed Biomass Prediction App — Pulmuone R&D, mobile-optimized webview, ranked 1st in R&D project (React, TypeScript)
