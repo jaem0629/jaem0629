@@ -18,7 +18,7 @@ Joined as the first frontend engineer with only App experience. Learned React an
 
 **OAS-based Type Generation** — Adopted Orval for REST APIs. Automated 100+ endpoint types, eliminating manual maintenance and field name mismatches.
 
-**GraphQL with a DB-first Approach** — Proposed PostGraphile for admin-heavy products. Backend engineers no longer write filters, pagination, or GET endpoints. Made admin development ~60% faster. Adopted in RAG Stack, RAMP, and NTS projects.
+**GraphQL with a DB-first Approach** — Proposed PostGraphile for admin-heavy products. Backend engineers no longer write filters, pagination, or GET endpoints. Made admin development ~60% faster.
 
 **BFF Architecture Exploration** — Built a BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation due to maintenance overhead.
 
