@@ -10,20 +10,6 @@ In my free time, I learn new technologies, play games, and find inspiration list
 
 Currently working as a Frontend Developer at PublicAI in Seoul.
 
-## Impact at PublicAI
-
-Joined as the first frontend engineer with only App experience. Learned React and TypeScript while shipping production features. In 1.5 years, established frontend standards across 10+ projects.
-
-**AI Coding Agents** — Adopted Cursor and Copilot when the company only used ChatGPT. Proved the impact by improving development speed. Now a company-wide standard, doubling team productivity.
-
-**OAS-based Type Generation** — Adopted Orval for REST APIs. Automated 100+ endpoint types, eliminating manual maintenance and field name mismatches.
-
-**GraphQL with a DB-first Approach** — Proposed PostGraphile for admin-heavy products. Backend engineers no longer write filters, pagination, or GET endpoints. Made admin development ~60% faster.
-
-**BFF Architecture Exploration** — Built a BFF layer to enable Relay cache benefits with Python REST backends. Later simplified to REST + route cache invalidation due to maintenance overhead.
-
-**Scaling Knowledge** — Contributing to open source to learn large-scale patterns and team collaboration, then applying those insights to internal architecture.
-
 ## Main Projects
 
 **2026**
